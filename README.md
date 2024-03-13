@@ -12,8 +12,8 @@ To install the application, follow these steps:
 
 ## Usage
 
-To use the application, run the following command: npm i to install all needed dependencies, 
-and node index.js to run the application from the command line.
+To use the application, run the following command: `npm i`. to install all needed dependencies, 
+and use `node index.js`.to run the application from the command line. 
 
 
 This will start the application, and you will be presented with a list of tasks to choose from. Simply follow the prompts to perform various operations such as viewing departments, adding roles, updating employee roles, and more.
@@ -30,7 +30,7 @@ This project relies on the following npm packages:
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvement.
-
+You can also reach out to me at jacobhcvn65gmail.com
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
