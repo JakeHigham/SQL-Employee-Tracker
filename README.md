@@ -26,6 +26,14 @@ This project relies on the following npm packages:
 - `mysql2`: For connecting to and interacting with a MySQL database.
 - `dotenv`: For securely storing environment variables such as the MySQL database credentials.
 
+## Screenshots and Walkthrough
+
+![image](https://github.com/JakeHigham/SQL-Employee-Tracker/assets/149442786/d724b46a-27c9-48d2-b8f8-a1530c334328)
+
+![image](https://github.com/JakeHigham/SQL-Employee-Tracker/assets/149442786/2d2e04b4-be78-4529-926d-fc2bbfe3d673)
+
+
+
 
 ## Contributing
 
