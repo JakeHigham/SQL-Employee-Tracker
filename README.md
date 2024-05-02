@@ -39,6 +39,11 @@ This project relies on the following npm packages:
 
 Contributions are welcome! Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvement.
 You can also reach out to me at jacobhcvn65gmail.com
+Here are some of the sources I used to complete this project, especially concerning the difference between callbacks and promises as that was what gave me the most difficulty :(
+
+https://www.geeksforgeeks.org/promise-vs-callback-in-javascript/#
+https://softwareengineering.stackexchange.com/questions/302455/is-there-really-a-fundamental-difference-between-callbacks-and-promises
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
