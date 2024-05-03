@@ -42,6 +42,7 @@ You can also reach out to me at jacobhcvn65gmail.com
 Here are some of the sources I used to complete this project, especially concerning the difference between callbacks and promises as that was what gave me the most difficulty :(
 
 https://www.geeksforgeeks.org/promise-vs-callback-in-javascript/#
+
 https://softwareengineering.stackexchange.com/questions/302455/is-there-really-a-fundamental-difference-between-callbacks-and-promises
 
 ## License
